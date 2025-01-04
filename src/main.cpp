@@ -14,7 +14,7 @@ void handleSignal(int signum) {
 }
 
 int main() {
-    signal(SIGINT, signalHandler);
+    signal(SIGINT, handleSignal);
     
     while (running) {
         std::cout << "OGYAA!" << std::endl;
