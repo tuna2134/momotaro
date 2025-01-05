@@ -1,5 +1,5 @@
 # momotaro
-Twitterでmomo.tarネタを作るためのバイナリーの元のカードです。
+Twitterでmomo.tarネタを作るためのバイナリーの元のコードです。
 ![assets](assets/IMG_2092.jpeg)
 
 ## コンパイル
